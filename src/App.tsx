@@ -6,7 +6,7 @@ import SafetyMap from './components/SafetyMap';
 import { LocationSearch } from './components/LocationSearch';
 import { RouteCard } from './components/RouteCard';
 import { SOSButton } from './components/SOSButton';
-import { TripSharing } from './components/TripSharing';
+import TripSharing from './components/TripSharing';
 import type { Location, Route as RouteType, SafetyPoint } from './types';
 import {
   generateDemoRoutes,
